@@ -10,8 +10,8 @@ const textConfig = {
   text9: "Vì anh là nhất trên đời",
   text10: "Anh biết mà ^^ đừng khen làm anh ngại",
   text11:
-    "Tối nay mình lại tâm sự nha!",
-  text12: "Okii lunn <3",
+    "Hahaa ngồi mò sáng giờ đó!",
+  text12: "Nhấn vào đây để xem album ảnh của mình nè <3",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://photos.app.goo.gl/HGf1vPPKmLhmHKtj7";
           },
         });
       }
