@@ -39,26 +39,26 @@
 }
 
 header h2 {
-  font-family: 'Arial'; color: white;
+  font-family: 'Arial'; color: "#ffffff";
   font-size: 80px;
   text-align: center;
 	margin-bottom: 30px;
 }
 header h4 {
-  font-family: 'Arial'; color: pink;
+  font-family: 'Arial'; color: "#fc3078";
  font-size: 50px;
   text-align: center;
 }
 
 @media only screen and (max-width: 500px) {
   header h2 {
-    font-family: 'Arial'; color: white;
+    font-family: 'Arial'; color: "#ffffff";
     font-size: 80px;
     text-align: center;
     margin-bottom: 70px;
   }
   header h4 {
-    font-family: 'Arial'; color: pink;
+    font-family: 'Arial'; color: "#fc3078";
     font-size: 80px;
     text-align: center;
     margin-bottom: 70px;
