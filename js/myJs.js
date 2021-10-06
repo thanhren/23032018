@@ -8,10 +8,10 @@ const textConfig = {
   text7: "Đừng quên cho anh một tín hiệu nhé!",
   text8: "Nhấn vào đây",
   text9: "Vì anh là nhất trên đời",
-  text10: "Anh biết mà ^^ đừng khen làm anh ngại",
+  text10: "Chỉ cần còn yêu, thì anh tin mình sẽ không lạc đường.",
   text11:
     "Nhớ anh thì có thể vào đây xem ảnh, anh sẽ cập nhật thường xuyên trên này!",
-  text12: "Ở đây có ảnh của 2 kẻ cứng đầu",
+  text12: "Ở đây có ảnh của 2 kẻ cứng đầu và cả nhật ký của anh nữa",
 };
 
 $(document).ready(function () {
@@ -136,7 +136,7 @@ $(document).ready(function () {
           background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
           text: textConfig.text11,
-          confirmButtonColor: "#83d0c9",
+          confirmButtonColor: "#cf0e75",
           onClose: () => {
             window.location = "https://photos.app.goo.gl/HGf1vPPKmLhmHKtj7";
           },
