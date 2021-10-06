@@ -26,9 +26,9 @@
   /* height: 100vh; */
   z-index: 0;
   background-repeat: no-repeat;
-  background-image: url(../img/puung3.jpg);
+  background-image: url(../img/2.jpg);
   background-size: cover;
-  background-position: 50%;
+  background-position: 100%;
   -webkit-filter: blur(1px);
 }
 .swal2-title, .swal2-content{
