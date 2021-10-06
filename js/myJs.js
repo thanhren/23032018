@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Helu Đồ con cún đáng yêu!",
-  text2: "Một xíu lãng mạn anh làm cho cún nè",
-  text3: "Xem thử dễ thương hông? hahaa",
-  text4: "Trả lời có chứng tỏ là yêu anh rồi",
-  text5: "Thanh niên ảo tưởng",
-  text6: "Có ^^ dễ thương quá đi",
-  text7: "Vậy còn ngại gì mà không lại đây bên anh :v",
-  text8: "Nhấn vào đây <3",
+  text1: "Lại vào xem lại nữa hả?",
+  text2: "Đừng có nhấn OK! Xem thì lại nhớ anh đó ^^!",
+  text3: "Thanh Thạnh <3 Hiếu Minh",
+  text4: "Em sẽ đợi anh chứ?",
+  text5: "Đừng mơ",
+  text6: "Em vẫn ở đây",
+  text7: "Đừng quên cho anh một tín hiệu nhé!",
+  text8: "Nhấn vào đây",
   text9: "Vì anh là nhất trên đời",
   text10: "Anh biết mà ^^ đừng khen làm anh ngại",
   text11:
-    "Hahaa ngồi mò sáng giờ đó!",
-  text12: "Nhấn vào đây để xem album ảnh của mình nè <3",
+    "Nhớ anh thì có thể vào đây xem ảnh, anh sẽ cập nhật thường xuyên trên này!",
+  text12: "Ở đây có ảnh của 2 kẻ cứng đầu",
 };
 
 $(document).ready(function () {
