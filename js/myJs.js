@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Lại vào xem lại nữa hả?",
-  text2: "Đừng có nhấn OK! Xem thì lại nhớ anh đó ^^!",
-  text3: "Chỉ được nhớ một chút thôi nhé!",
-  text4: "Thôi cho xem một tý đó",
-  text5: "Ở đây có gì đâu mà nhấn",
-  text6: "Nhấn vào đây này",
-  text7: "Cười! tự nhiên nhìn màn hình cười vậy à ^^",
-  text8: "Nhấn vào đây cười quài",
-  text9: "",
-  text10: "Chuyện của cứng đầu và bướng bỉnh",
+  text1: "Happy Birthday To You",
+  text2: "Chúc mừng giáng sinh vui vẻ :))"
+  text3: "Chúc Thùy Hằng có một ngày sinh nhật vui vẻ",
+  text4: "Và nhiều ngày sau cũng như thế!",
+  text5: "Xin lỗi, không cần",
+  text6: "Cảm ơn rất nhiều ^^!",
+  text7: "Click vào phía dưới xem thử có gì!",
+  text8: "Nhấn vào đây nè.",
+  text9: "Vì cậu đẹp try vlllll",
+  text10: "Happy birthday to you",
   text11:
-    "Nhớ anh thì có thể vào đây xem ảnh",
-  text12: "Ở đây có ảnh của 2 kẻ lạc nhau",
+    "Chúc Hằng một tuổi mới đầy những điều may mắn nhé! ",
+  text12: "Nghe một bài nhạc tận hưởng ngày sinh nhật.",
 };
 
 $(document).ready(function () {
